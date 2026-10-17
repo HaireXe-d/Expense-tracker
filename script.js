@@ -1,3 +1,6 @@
+alert("小作品求支持 https://github.com/HaireXe-d/Expense-tracker");
+
+
 /* =====================================================================
    Expense tracker · script.js  —— 逐行注释讲解版
    ---------------------------------------------------------------------
@@ -617,6 +620,7 @@ function demoForm() {
   const kind = document.getElementById("kind");
   if (kind) console.log("当前类型 =", kind.value);
 }
+
 
 
 /* ---------------- A8. localStorage：把数据存到浏览器里（本项目很值得加的功能） ---------------- */
